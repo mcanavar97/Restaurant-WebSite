@@ -10,6 +10,6 @@ Html, Css and Js. The site offers a user-friendly interface where customers can 
 - JavaScript: Dynamic properties and interactions.
 
 # Preview
-![](restaurant-website.gif)
+![](restaurant-website-gif.gif)
 
 
